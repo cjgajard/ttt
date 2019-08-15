@@ -2,7 +2,7 @@
 
 Tic-tac-toe over the network.
 
-# Building
+## Building
 
 ```bash
 make
